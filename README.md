@@ -10,7 +10,7 @@ This project demonstrates how to build a serverless URL shortener using the foll
 
 -   **AWS Lambda**: Executes the backend logic for shortening URLs and retrieving the original URLs.
 -   **Amazon DynamoDB**: A NoSQL database used to store the mapping between short URLs and their corresponding long URLs.
--   **Amazon API Gateway**: Exposes the Lambda function as an HTTP API for interacting with the URL shortener.
+-   **Amazon API Gateway**: Exposes the Lambda function as an HTTPS API for interacting with the URL shortener.
 
 **Setup and Deployment**
 ------------------------
